@@ -20,6 +20,9 @@ workflows.
 ## Contributors
 
 * Serrano Pereira
+* Dana Finies
 * Hanna van Leent
 * Gert van Duijn
 * Linda van Duijn
+* Maikel Dijkstra
+* Mike van Toledo
