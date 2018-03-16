@@ -20,3 +20,4 @@ workflows.
 ## Contributors
 
 * Serrano Pereira
+* Linda van Duijn
