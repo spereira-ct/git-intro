@@ -28,10 +28,20 @@ workflows.
 * Maikel Dijkstra
 * Mike van Toledo
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Marvin Hartog
+=======
+>>>>>>> b1bf097c283fc08f52ca3a2aae9978205e44f62a
 >>>>>>> 711052ae84ac1d37966926ac69aa539854d56bd7
 =======
 >>>>>>> c4b71df902629f889195251e9be754bb57980150
 >>>>>>> 8b91973fac23b0a46025807614c1c5bacdcc9efa
+<<<<<<< HEAD
 =======
 >>>>>>> e2226a1744c976057565253dd1215778cca057fb
+=======
+* Daan de Jager
+
+=======
+>>>>>>> e69dfedc7945d3fd6167f6a4c3156281e99356c1
+>>>>>>> b1bf097c283fc08f52ca3a2aae9978205e44f62a
