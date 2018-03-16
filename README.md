@@ -29,6 +29,7 @@ workflows.
 * Mike van Toledo
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 * Marvin Hartog
 =======
 >>>>>>> b1bf097c283fc08f52ca3a2aae9978205e44f62a
@@ -45,3 +46,6 @@ workflows.
 =======
 >>>>>>> e69dfedc7945d3fd6167f6a4c3156281e99356c1
 >>>>>>> b1bf097c283fc08f52ca3a2aae9978205e44f62a
+=======
+* Daan de Jager
+>>>>>>> 485b94bdff9bcbb223317ef034cd50b1c5f7e6bb
