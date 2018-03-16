@@ -20,8 +20,6 @@ workflows.
 ## Contributors
 
 * Serrano Pereira
-<<<<<<< HEAD
 * Hanna van Leent
-=======
 * Gert van Duijn
->>>>>>> c4b71df902629f889195251e9be754bb57980150
+* Linda van Duijn
