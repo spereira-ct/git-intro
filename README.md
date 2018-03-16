@@ -20,20 +20,18 @@ workflows.
 ## Contributors
 
 * Serrano Pereira
-<<<<<<< HEAD
 * Dana Finies
-=======
-<<<<<<< HEAD
 * Hanna van Leent
-=======
 * Gert van Duijn
-<<<<<<< HEAD
-<<<<<<< HEAD
+* Linda van Duijn
+* Jorien Huijgens
 * Maikel Dijkstra
-=======
 * Mike van Toledo
+<<<<<<< HEAD
 * Marvin Hartog
 >>>>>>> 711052ae84ac1d37966926ac69aa539854d56bd7
 =======
 >>>>>>> c4b71df902629f889195251e9be754bb57980150
 >>>>>>> 8b91973fac23b0a46025807614c1c5bacdcc9efa
+=======
+>>>>>>> e2226a1744c976057565253dd1215778cca057fb
