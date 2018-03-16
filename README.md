@@ -32,6 +32,7 @@ workflows.
 * Maikel Dijkstra
 =======
 * Mike van Toledo
+* Marvin Hartog
 >>>>>>> 711052ae84ac1d37966926ac69aa539854d56bd7
 =======
 >>>>>>> c4b71df902629f889195251e9be754bb57980150
