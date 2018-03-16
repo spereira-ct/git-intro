@@ -29,4 +29,4 @@ workflows.
 * Mike van Toledo
 * Marvin Hartog
 * Daan de Jager
-* Theo de Vet
+* Theo de Vet!
